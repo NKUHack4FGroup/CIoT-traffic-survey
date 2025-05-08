@@ -5,6 +5,7 @@ We refer to some well-known public lists of academic conferences and journals in
 
 ## Paper List
 We divide existing work into 4 major categories: [Link](https://github.com/NKUHack4FGroup/CIoT-traffic-survey/blob/main/Paper%20List.md)
+
 A. Device Fingerprinting
 
 B. User Activity Inference
